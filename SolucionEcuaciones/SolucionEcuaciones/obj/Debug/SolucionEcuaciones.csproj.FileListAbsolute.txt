@@ -1,0 +1,9 @@
+c:\users\investor_dm_\documents\visual studio 2015\Projects\SolucionEcuaciones\SolucionEcuaciones\bin\Debug\SolucionEcuaciones.exe.config
+c:\users\investor_dm_\documents\visual studio 2015\Projects\SolucionEcuaciones\SolucionEcuaciones\bin\Debug\SolucionEcuaciones.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\SolucionEcuaciones\SolucionEcuaciones\bin\Debug\SolucionEcuaciones.pdb
+c:\users\investor_dm_\documents\visual studio 2015\Projects\SolucionEcuaciones\SolucionEcuaciones\obj\Debug\SolucionEcuaciones.csprojResolveAssemblyReference.cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\SolucionEcuaciones\SolucionEcuaciones\obj\Debug\SolucionEcuaciones.Form1.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\SolucionEcuaciones\SolucionEcuaciones\obj\Debug\SolucionEcuaciones.Properties.Resources.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\SolucionEcuaciones\SolucionEcuaciones\obj\Debug\SolucionEcuaciones.csproj.GenerateResource.Cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\SolucionEcuaciones\SolucionEcuaciones\obj\Debug\SolucionEcuaciones.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\SolucionEcuaciones\SolucionEcuaciones\obj\Debug\SolucionEcuaciones.pdb
